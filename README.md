@@ -40,9 +40,11 @@ while True:
 ## OUTPUT:
 
 CLIENT :
+
 ![image](https://github.com/ANU23000217/2a_Stop_and_Wait_Protocol/assets/139117108/32751e16-a815-43a6-886b-61ea9fe7f3bd)
 
 SERVER:
+
 ![image](https://github.com/ANU23000217/2a_Stop_and_Wait_Protocol/assets/139117108/f9e24503-1f16-4486-8b80-f56a283a066d)
 
 
