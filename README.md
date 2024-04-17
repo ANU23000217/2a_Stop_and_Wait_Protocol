@@ -39,7 +39,8 @@ while True:
 ```
 ## OUTPUT:
 
-![Screenshot 2024-03-06 120050](https://github.com/ANU23000217/2a_Stop_and_Wait_Protocol/assets/139117108/caccd223-10d8-43fd-b9a1-e6d567ecc515)
+![Screenshot 2024-04-16 191425](https://github.com/ANU23000217/2a_Stop_and_Wait_Protocol/assets/139117108/13477dfa-c327-4cc4-b0c4-9b2557f934a1)
+
 
 
 
